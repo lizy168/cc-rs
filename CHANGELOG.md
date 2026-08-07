@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0](https://github.com/lizy168/cc-rs/compare/cc-v1.2.16...cc-v2.0.0) - 2026-08-07
+
+### Other
+
+- [bfp-replay] ce486da51659 human
+
 ## [1.2.16](https://github.com/rust-lang/cc-rs/compare/cc-v1.2.15...cc-v1.2.16) - 2025-02-28
 
 ### Fixed
