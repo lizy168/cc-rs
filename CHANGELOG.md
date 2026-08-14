@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0](https://github.com/lizy168/cc-rs/compare/cc-v1.2.16...cc-v2.0.0) - 2026-08-14
+
+### Other
+
+- [bfp-replay] ce486da51659 human
+- Parse `rustc` target names ([#1413](https://github.com/lizy168/cc-rs/pull/1413))
+- Regenerate target info ([#1429](https://github.com/lizy168/cc-rs/pull/1429))
+- Added base support for `wasm32-wali-linux-musl` target ([#1373](https://github.com/lizy168/cc-rs/pull/1373))
+- Update rusqlite requirement from 0.33.0 to 0.34.0 ([#1428](https://github.com/lizy168/cc-rs/pull/1428))
+
 ## [1.2.16](https://github.com/rust-lang/cc-rs/compare/cc-v1.2.15...cc-v1.2.16) - 2025-02-28
 
 ### Fixed
